@@ -38,6 +38,18 @@
 ### Muestra una lista de todos los commits en una sola linea cada uno
 
 
+##  git reset --hard id_commit    ===    git reset --hard HEAD~NUMERO
+### Hace un borrado de todos los archivos y carpetas al commit específico que se le indique
+
+
+##  git reset --soft id_commit    ===    git reset --soft HEAD~NUMERO
+### Hace un borrado de los commits pero mantiene los archivos y el stage (stack) intacto, dejando listo el proyecto para un commit
+
+
+##  git reset --mixed id_commit    ===    git reset --mixed HEAD~NUMERO
+### Hace un borrado de los commits y los archivos y el stage (stack). Este commit es el que hace por defecto si sólo se pone "git reset id_commit    o     git reset HEAD~NUMERO
+
+
 
 
 
