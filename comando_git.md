@@ -26,6 +26,10 @@
 ### elimina sólo el archivo texto2.txt que esta en la carpeta_test
 
 
+## git commit -m "Se agrego la clase con Singleton"
+### Crea una fotografía del proyecto en ese punto del tiempo y agrega un mensaje despues de "-m"
+
+
 
 
 
