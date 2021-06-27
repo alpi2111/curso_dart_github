@@ -50,6 +50,10 @@
 ### Hace un borrado de los commits y los archivos y el stage (stack). Este commit es el que hace por defecto si sólo se pone "git reset id_commit    o     git reset HEAD~NUMERO
 
 
+##  git reflog
+### Muestra un historial de todo lo que se ha hecho en git (commit, reset)
+
+
 
 
 
