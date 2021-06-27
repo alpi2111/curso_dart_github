@@ -30,6 +30,14 @@
 ### Crea una fotografía del proyecto en ese punto del tiempo y agrega un mensaje despues de "-m"
 
 
+##  git commit -am "Se agrego el comando commit -m"
+### Crea una fotografía del proyecto en ese punto del tiempo y agrega todos los archivos que git les de seguimiento y un mensaje despues de "-m"
+
+
+##  git log --oneline
+### Muestra una lista de todos los commits en una sola linea cada uno
+
+
 
 
 
