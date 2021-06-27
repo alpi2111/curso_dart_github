@@ -54,6 +54,10 @@
 ### Muestra un historial de todo lo que se ha hecho en git (commit, reset)
 
 
+##  git rebase -i HEAD~NUMERO
+### Muestra un menu interactivo con opciones para editar o remover commits
+
+
 
 
 
